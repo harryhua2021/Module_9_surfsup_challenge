@@ -8,9 +8,13 @@ In order to review weather patterns in Hawaii as we are planning to open a surf 
 
 The following table summarizes the local climate in June.
 
+![alt text](https://github.com/harryhua2021/Module_9_surfsup_challenge/blob/main/june_temp.png)
+
 June Temperature Dataframe
 
 The following table summarizes the local climate in December.
+
+![alt text](https://github.com/harryhua2021/Module_9_surfsup_challenge/blob/main/dec_temp.png)
 
 December Temperature Dataframe
 
